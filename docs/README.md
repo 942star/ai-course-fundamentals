@@ -6,5 +6,7 @@
 - [04. datetime](https://wind-kyle.github.io/ai-course-fundamentals/docs/04.%20datetime)
 - [05. Pandas Part.4](https://wind-kyle.github.io/ai-course-fundamentals/docs/05.%20Pandas%20Part%204)
 - [06. Matplotlib](https://wind-kyle.github.io/ai-course-fundamentals/docs/06.%20matplotlib)
+- [07. Geo Pandas](https://wind-kyle.github.io/ai-course-fundamentals/docs/07.%20geopandas)
+- [08. Folium](https://wind-kyle.github.io/ai-course-fundamentals/docs/08.%20folium)
 
 [뒤로가기](https://wind-kyle.github.io/ai-course-fundamentals/)
