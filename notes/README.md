@@ -8,5 +8,6 @@
 - [06. Matplotlib](https://wind-kyle.github.io/ai-course-fundamentals/notes/06.%20matplotlib.html)
 - [07. Geo Pandas](https://wind-kyle.github.io/ai-course-fundamentals/notes/07.%20geopandas.html)
 - [08. Folium](https://wind-kyle.github.io/ai-course-fundamentals/notes/08.%20Folium.html)
+- [09. seaborn](https://wind-kyle.github.io/ai-course-fundamentals/notes/09.%20seaborn.html)
 
 [뒤로가기](https://wind-kyle.github.io/ai-course-fundamentals/)
