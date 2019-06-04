@@ -4,7 +4,6 @@
 
 - GitHub Blog: https://wind-kyle.github.io/
 - [Python 기본 과정 페이지로 이동](https://github.com/Wind-Kyle/python-fundamentals)
-- [노트 필기 페이지로 이동](https://wind-kyle.github.io/ai-course-fundamentals/docs/)
 
 
 <b>Pandas & Scikit-Learn</b>을 활용한 데이터 분석 및 기계학습 기본과정입니다.<br/>
