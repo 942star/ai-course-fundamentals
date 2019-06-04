@@ -11,5 +11,6 @@
 - [09. seaborn](https://wind-kyle.github.io/ai-course-fundamentals/docs/09.%20seaborn)
 - [10. Scikit-Learn](https://wind-kyle.github.io/ai-course-fundamentals/docs/10.%20scikit-learn)
 - [11. Scikit-Learn Part.2](https://wind-kyle.github.io/ai-course-fundamentals/docs/11.%20scikit-learn%20Part%202)
+- [12. Scikit-Learn Part.3](https://wind-kyle.github.io/ai-course-fundamentals/docs/12.%20scikit-learn%20Part%203)
 
 [뒤로가기](https://wind-kyle.github.io/ai-course-fundamentals/)
