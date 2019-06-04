@@ -10,6 +10,6 @@
 - [08. Folium](https://wind-kyle.github.io/ai-course-fundamentals/notes/08.%20Folium.html)
 - [09. seaborn](https://wind-kyle.github.io/ai-course-fundamentals/notes/09.%20seaborn.html)
 - [10. Scikit-Learn](https://wind-kyle.github.io/ai-course-fundamentals/notes/10.%20scikit-learn.html)
-- [11. Scikit-Learn Part.2](https://wind-kyle.github.io/ai-course-fundamentals/notes/10.%20scikit-learn%20Part%202.html)
+- [11. Scikit-Learn Part.2](https://wind-kyle.github.io/ai-course-fundamentals/notes/11.%20scikit-learn%20Part%202.html)
 
 [뒤로가기](https://wind-kyle.github.io/ai-course-fundamentals/)
