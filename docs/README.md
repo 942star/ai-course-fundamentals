@@ -12,5 +12,6 @@
 - [10. Scikit-Learn](https://wind-kyle.github.io/ai-course-fundamentals/docs/10.%20scikit-learn)
 - [11. Scikit-Learn Part.2](https://wind-kyle.github.io/ai-course-fundamentals/docs/11.%20scikit-learn%20Part%202)
 - [12. Scikit-Learn Part.3](https://wind-kyle.github.io/ai-course-fundamentals/docs/12.%20scikit-learn%20Part%203)
+- [13. Scikit-Learn Part.4](https://wind-kyle.github.io/ai-course-fundamentals/docs/13.%20scikit-learn%20Part%204)
 
 [뒤로가기](https://wind-kyle.github.io/ai-course-fundamentals/)
