@@ -15,6 +15,7 @@
 - [13. Scikit-Learn Part.4](https://wind-kyle.github.io/ai-course-fundamentals/notes/13.%20scikit-learn%20Part%204.html)
 - [14. titanic data](https://wind-kyle.github.io/ai-course-fundamentals/notes/14.%20titanic%20data.html)
 - [15. Scikit-Learn Evaluation](https://wind-kyle.github.io/ai-course-fundamentals/notes/15.%20scikit-learn%20evaluation.html)
+- [16. Scikit-Learn GridSearchCV](https://wind-kyle.github.io/ai-course-fundamentals/notes/16.%20scikit-learn%20GridSearchCV.html)
 - [특강. Selenium - CGV Ticketing](https://wind-kyle.github.io/ai-course-fundamentals/notes/특강.%20Selenium%20-%20CGV%20Ticketing.html)
 
 [뒤로가기](https://wind-kyle.github.io/ai-course-fundamentals/)
