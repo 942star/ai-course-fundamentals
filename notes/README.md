@@ -18,6 +18,8 @@
 - [16. Scikit-Learn GridSearchCV](https://wind-kyle.github.io/ai-course-fundamentals/notes/16.%20scikit-learn%20GridSearchCV.html)
 - [17. Scikit-Learn Part.5](https://wind-kyle.github.io/ai-course-fundamentals/notes/17.%20scikit-learn%20Part%205.html)
 - [18. Scikit-Learn Pipeline](https://wind-kyle.github.io/ai-course-fundamentals/notes/18.%20scikit-learn%20Pipeline.html)
+- [19. Movie Recommendation](https://wind-kyle.github.io/ai-course-fundamentals/notes/19.%20Movie%20Recommendation.html)
+- [20. Scikit-Learn surprise (MovieLens data)](https://wind-kyle.github.io/ai-course-fundamentals/notes/20.%20scikit-learn%20surprise%20(MovieLens%20data).html)
 - [특강. Selenium - CGV Ticketing](https://wind-kyle.github.io/ai-course-fundamentals/notes/특강.%20Selenium%20-%20CGV%20Ticketing.html)
 
 [뒤로가기](https://wind-kyle.github.io/ai-course-fundamentals/)
