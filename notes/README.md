@@ -23,5 +23,3 @@
 - [21. Scikit-Learn surprise - KNNBasic analysis](https://wind-kyle.github.io/ai-course-fundamentals/notes/21.%20scikit-learn%20surprise%20-%20KNNBasic%20analysis.html)
 - [22. Scikit-Learn surprise - Compare](https://wind-kyle.github.io/ai-course-fundamentals/notes/22.%20scikit-learn%20suprise%20-%20Compare.html)
 - [특강. Selenium - CGV Ticketing](https://wind-kyle.github.io/ai-course-fundamentals/notes/특강.%20Selenium%20-%20CGV%20Ticketing.html)
-
-[뒤로가기](https://wind-kyle.github.io/ai-course-fundamentals/)
