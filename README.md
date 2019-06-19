@@ -56,8 +56,6 @@ git clone https://github.com/Wind-Kyle/ai-course-fundamentals.git
 - RNN
 - LSTM
 
----
-
 ## 문의사항
 - issues page: https://github.com/Wind-Kyle/ai-course-fundamentals/issues
 - e-mail: windkyle7@gmail.com
